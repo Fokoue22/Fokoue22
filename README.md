@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fokoue Thomas</h1>
-<h3 align="center">The DevOps Guy who automating stuff</h3>
+<h3 align="center">The DevOps Guy who love automating stuff</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
