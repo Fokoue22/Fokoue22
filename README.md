@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fokoue_thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fokoue_thomas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thomas fokoue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-fokoue" height="30" width="40" /></a>
+<a href="linkedin.com/in/thomas-fokoue-406a90236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thomas Fokoue" height="30" width="40" /></a>
 <a href="https://instagram.com/fokouethomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fokouethomas" height="30" width="40" /></a>
 </p>
 
