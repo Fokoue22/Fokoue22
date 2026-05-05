@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **fokouethomasdylan@gmail.com**
 
-- 📄 Know about my experiences [https://www.fokoue-thomas.com/](https://www.fokoue-thomas.com/)
+- 📄 Know about my experiences [fokoue-thomas.com](https://www.fokoue-thomas.com/)
 
 - ⚡ Fun fact **Always available to help and automate stuff**
 
