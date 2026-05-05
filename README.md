@@ -80,9 +80,6 @@
 		<td>
 			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fokoue22&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
 		</td>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=fokoue22&show_icons=true&locale=en" alt="GitHub stats" />
-		</td>
 	</tr>
 	<tr>
 		<td colspan="2">
