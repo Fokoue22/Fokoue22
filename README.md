@@ -75,10 +75,23 @@
 </table>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fokoue22&show_icons=true&locale=en&layout=compact" alt="fokoue22" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fokoue22&show_icons=true&locale=en" alt="fokoue22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fokoue22&" alt="fokoue22" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fokoue22&label=Profile%20views&color=0e75b6&style=flat" alt="fokoue22" /> </p>
+<table>
+	<tr>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fokoue22&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=fokoue22&show_icons=true&locale=en" alt="GitHub stats" />
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="https://github-readme-streak-stats.herokuapp.com/?user=fokoue22&" alt="GitHub streak" />
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="https://komarev.com/ghpvc/?username=fokoue22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+		</td>
+	</tr>
+</table>
