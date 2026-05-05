@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fokoue Thomas</h1>
 <h3 align="center">The DevOps Guy who love automating stuff</h3>
 
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **fokouethomasdylan@gmail.com**
 
@@ -77,7 +77,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fokoue22&show_icons=true&locale=en&layout=compact" alt="fokoue22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fokoue22&show_icons=true&locale=en" alt="fokoue22" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fokoue22&show_icons=true&locale=en" alt="fokoue22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fokoue22&" alt="fokoue22" /></p>
 
