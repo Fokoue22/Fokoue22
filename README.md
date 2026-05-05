@@ -77,18 +77,19 @@
 
 <table>
 	<tr>
-		<td>
+		<td align="center">
 			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fokoue22&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2">
+		<td align="center">
 			<img src="https://github-readme-streak-stats.herokuapp.com/?user=fokoue22&" alt="GitHub streak" />
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2">
+		<td align="center">
 			<img src="https://komarev.com/ghpvc/?username=fokoue22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+			<img src="https://img.shields.io/github/followers/fokoue22?label=Followers&style=social" alt="GitHub followers" />
 		</td>
 	</tr>
 </table>
